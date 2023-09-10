@@ -50,7 +50,8 @@ export default App;
 
 ## Screenshots
 
-![image](https://github.com/eliezerBrasilian/swipeable-modal/assets/93846923/922d4145-877b-4791-84c1-e7a18285272e)
+![image](https://github.com/eliezerBrasilian/swipeable-modal/assets/93846923/922d4145-877b-4791-84c1-e7a18285272e) ![image](https://github.com/eliezerBrasilian/swipeable-modal/assets/93846923/c1992c6a-6478-438c-8288-b95545f2823d)
+
 
 ## Simple video of example
 
