@@ -58,3 +58,36 @@ https://github.com/eliezerBrasilian/swipeable-modal/assets/93846923/6ee96693-76b
 
 
 
+## All the Props
+
+
+
+| Parameter | Condition     | Description                |
+| :-------- | :------- | :------------------------- |
+| `children` | **Required**.  | View,Text,ScrollView, etc...|
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `visible`  | **boolean**| control the visibility of modal |
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `borderRadius`  | **number**| control the border of modal |
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `borderColor`  | **string**| control the border color of modal |
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `borderWidth`  | **number**| control the width of border of modal |
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `height`  | **number**| control the minimum heigth of modal |
+
+| Parameter | Type| Description  |
+| :-------- | :-------  | :---------------|
+| `disappearOnSwipingDown`  | **boolean**| control if modal should disappear after swiped down |
+
+
